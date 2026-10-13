@@ -179,6 +179,27 @@ I am currently interested in:
 
 ---
 
+## Learning & Achievements
+
+### Entrepreneurship Foundations — Arizona State University
+
+**Completed · 2026 cohort**
+
+Completed the Entrepreneurship Foundations learning experience and received a course completion badge from Arizona State University.
+
+Skills developed:
+
+- recognizing opportunities and connecting innovation to meaningful goals;
+- critical thinking, creativity, adaptability, collaboration, and initiative;
+- defining problems, testing assumptions, gathering feedback, and refining ideas;
+- working with teams, ecosystem resources, and AI tools to move ideas forward.
+
+![Personal portfolio card: Entrepreneurship Foundations, Arizona State University, 2026](assets/asu-entrepreneurship-foundations-2026.png)
+
+*Personal portfolio card based on the course completion badge.*
+
+---
+
 ## Contact
 
 GitHub: https://github.com/QazTrap

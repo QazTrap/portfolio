@@ -198,6 +198,19 @@ Skills developed:
 
 *Personal portfolio card based on the course completion badge.*
 
+
+### HackAlem AI — Certificate of Participation
+
+**Participant · October 2026**
+
+Participated in HackAlem AI, an agentic AI hackathon focused on practical AI development and problem-solving.
+
+The event certificate references the Guinness World Records title *Most Participants in an Agentic AI Hackathon*. This is a **certificate of participation**, not a winning award or an individual Guinness World Records title.
+
+[View HackAlem AI Certificate (PDF)](HackAlem-AI-Certificate.pdf)
+
+**Skills and experience:** applied AI, rapid prototyping, problem-solving, and collaborative technical work.
+
 ---
 
 ## Contact

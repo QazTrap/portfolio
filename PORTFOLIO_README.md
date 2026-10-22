@@ -207,9 +207,12 @@ Participated in HackAlem AI, an agentic AI hackathon focused on practical AI dev
 
 The event certificate references the Guinness World Records title *Most Participants in an Agentic AI Hackathon*. This is a **certificate of participation**, not a winning award or an individual Guinness World Records title.
 
-[View HackAlem AI Certificate (PDF)](HackAlem-AI-Certificate.pdf)
+![HackAlem AI Certificate of Participation](HackAlem-AI-Certificate.pdf)
 
-**Skills and experience:** applied AI, rapid prototyping, problem-solving, and collaborative technical work.
+[Open or download the HackAlem AI certificate (PDF)](HackAlem-AI-Certificate.pdf)
+
+*Certificate of participation; not a winner award or an individual Guinness World Records title.*
+
 
 ---
 

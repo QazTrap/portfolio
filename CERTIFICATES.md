@@ -8,3 +8,5 @@
 - **Certificate type:** Participation (not a winner or individual Guinness World Records record).
 
 This certificate documents participation in the event. It does not imply an award placement or that the participant personally holds the Guinness World Records title.
+
+[View or download the HackAlem AI Certificate (PDF)](HackAlem-AI-Certificate.pdf)
